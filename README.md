@@ -6,10 +6,6 @@ Code accompanying the manuscript
 > *From Observable Classroom Features to Uncertainty-Aware Diagnostic Profiles: A Diagnostic–Regulatory
 > Model of Lesson Delivery Quality for Technology-Supported Observation.* Submitted to *Education Sciences* (MDPI), 2026.
 
-Python is used only to draw the figures and to apply Equations (5)–(10) of the manuscript to a lesson
-scenario **constructed by the authors** (Figure 4, Table 6, Tables A1–A2). **No empirical data are
-analysed**; the scenario values are illustrative and are neither observational data nor recommended norms.
-
 ## Contents
 
 | File | Purpose |
