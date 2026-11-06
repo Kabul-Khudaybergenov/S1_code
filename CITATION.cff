@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript below."
+title: "Supplementary File S1: scripts and constructed scenario for a diagnostic-regulatory model of lesson delivery quality"
+type: software
+version: "1.0.0"
+date-released: "2026-11-06"
+license: MIT
+authors:
+  - family-names: Urakov
+    given-names: Shukhrat R.
+  - family-names: Marakhimov
+    given-names: Avazjon A.
+  - family-names: Khudaybergenov
+    given-names: Kabul K.
+    email: kabul.kudaybergenov@gmail.com
+  - family-names: Ergasheva
+    given-names: Dilnoza A.
+preferred-citation:
+  type: article
+  title: "From Observable Classroom Features to Uncertainty-Aware Diagnostic Profiles: A Diagnostic-Regulatory Model of Lesson Delivery Quality for Technology-Supported Observation"
+  journal: "Education Sciences"
+  year: 2026
+  notes: "Submitted."
+  authors:
+    - family-names: Urakov
+      given-names: Shukhrat R.
+    - family-names: Marakhimov
+      given-names: Avazjon A.
+    - family-names: Khudaybergenov
+      given-names: Kabul K.
+    - family-names: Ergasheva
+      given-names: Dilnoza A.
